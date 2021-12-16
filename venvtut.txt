@@ -1,0 +1,6 @@
+pip install virtualenv
+virtualenv sau - it will create sau folder in which your new born python exiists
+.\sau\scripts\activate - it will open the virtual environment
+deactivate - to exit from the virtual environment
+exit()  - it is used to remove from the python interpreter
+pip freeze > requirements.txt - to view all the packages' versions of that virtual environment in a txt file
